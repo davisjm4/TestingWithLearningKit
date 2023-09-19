@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/davisjm4/Desktop/Unreal/TestingWithLearningKit/UnrealLearningKit/Content/Hour_of_Code/Maps/Level_HOC_world.umap"
+			]
+		}
+	]
+}
